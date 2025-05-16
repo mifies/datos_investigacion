@@ -1,6 +1,6 @@
-Número de expediente,Fecha del suceso,Provincia,Municipio,Tipo de suceso,Fecha de publicación
-107/2022,13/12/2022,Tarragona,Tivissa,Colisión entre trenes,29/06/2023
-070/2022,15/08/2022,Barcelona,Manresa,Incidente operacional,30/03/2023
-046/2022,01/06/2022,Barcelona,El Papiol,Incidente operacional,12/06/2023
-048/2022,12/06/2022,Tarragona,Bifurcación Vila-seca,Colisión frontal de trenes,26/04/2023
-108/2022,05/11/2022,Barcelona,Torelló,Fallo de señalización,12/06/2023
+Número de expediente,Fecha del suceso,Provincia,Municipio,Tipo de suceso,Fecha de publicación,PDF
+107/2022,13/12/2022,Tarragona,Tivissa,Colisión entre trenes,29/06/2023,https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/230622-221213-if-sn_ciaf.pdf
+070/2022,15/08/2022,Barcelona,Manresa,Incidente operacional,30/03/2023,https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/230316-220815-if_ciaf.pdf
+046/2022,01/06/2022,Barcelona,El Papiol,Incidente operacional,12/06/2023,https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/46-220601-if-sn_ciafv2.pdf
+048/2022,12/06/2022,Tarragona,Bifurcación Vila-seca,Colisión frontal de trenes,26/04/2023,https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2022-48-0612-if.pdf
+108/2022,05/11/2022,Barcelona,Torelló,Fallo de señalización,12/06/2023,https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/108-221105-if-sn_ciafv2.pdf
